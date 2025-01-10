@@ -15,5 +15,8 @@
     "url": "https://github.com/fgantri/note_app/issues"
   },
   "homepage": "https://github.com/fgantri/note_app#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
